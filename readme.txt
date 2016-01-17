@@ -1,0 +1,2 @@
+Put start.bat in the startup folder of your PC. This will ensure the code is run as soon as your computer is started. invisible.vbs hides the console window and the main functionality is implemented in killProcess.bat.
+Modify time and process name as needed. This will help automatically close certain processes at certain time of the day.

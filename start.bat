@@ -1,0 +1,1 @@
+wscript.exe "C:\Users\Amanda\Desktop\invisible.vbs" "C:\Users\Amanda\Desktop\killQQ.bat"
